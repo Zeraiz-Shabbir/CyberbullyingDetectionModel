@@ -46,7 +46,11 @@ pip3 install pyspark
 ## Downloading and Running the Script
 - You will need TextBlob installed to run part of the script:
 ```
-%pip install textblob
+pip install textblob
+```
+- You also need numpy installed:
+```
+pip install numpy
 ```
 ### 1. Download the files from this repository and transfer them to the VM using FileZilla:
 - Open FileZilla > File > Site Manager
@@ -70,7 +74,7 @@ spark-submit main_script.py
 ```
 - After the above script fully executes, you will be able to see the evaluation metrics for the model.
 - To simply view the final results, please refer to the final_results.ppt file.
-- You can also run an older version of this project from when I was still using Databricks Community Edition, before I moved over to a VM.
+- You can also run an older version of this project from when I was still using Databricks Community Edition, before I moved over to a VM (recommended).
 ## Running Databricks Community Edition Version
 ### 1. Create a Databricks Community Edition account
 - Visit [this](https://www.databricks.com/) link to create a Databricks Community Edition account
