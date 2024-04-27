@@ -73,7 +73,7 @@ pip install numpy
 spark-submit main_script.py
 ```
 - After the above script fully executes, you will be able to see the evaluation metrics for the model.
-- To simply view the final results, please refer to the final_results.ppt file.
+- To simply view the final results without having to run the entire script, please refer to the FinalResults.pdf file.
 - You can also run an older version of this project from when I was still using Databricks Community Edition, before I moved over to a VM (recommended).
 ## Running Databricks Community Edition Version
 ### 1. Create a Databricks Community Edition account
