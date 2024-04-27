@@ -1,5 +1,5 @@
 # CyberbullyingDetectionModel
-This repository contains a dataset of tweets categorized by cyberbullying_type, of which there are 6, all with equal distribution ([You can find the dataset here](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)). This repository also contains the code for analyzing the aforementioned dataset using Apache Spark, and relevant presentations created along the course of the project.
+This repository contains a dataset of tweets categorized by cyberbullying_type, of which there are 6, all with equal distribution ([You can find the dataset here](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)). This repository also contains the code for analyzing the aforementioned dataset using Apache Spark. There is also the option to run a version of the project through Databricks Community Edition. Instructions for running both versions can be found below. This repository also contains presentations created throughout the span of this project, representing different stages of development.
 ## Setting Up Spark on Azure VM
 ### 1. Create an Azure VM
 - Log in to the [Azure portal](https://azure.microsoft.com/en-us/get-started/azure-portal).
