@@ -67,7 +67,7 @@ pip install numpy
 - Make sure all files are in the same root directory in the VM
 ### 2. Run the Spark script
 > [!NOTE]  
-> Running this script may take a **sigificant** amount of time (it took my virtual machine over an hour on average).
+> Running this script may take a **significant** amount of time (it took my virtual machine over an hour).
 > It includes all steps from preprocessing to model training and evaluation.
 ```
 spark-submit main_script.py
